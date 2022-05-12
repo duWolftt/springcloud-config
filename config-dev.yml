@@ -1,1 +1,2 @@
-config dev2
+config
+  info:dev version2
